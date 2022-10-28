@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/emadarsa/static/css/main.7c0e48a6.css",
-    "main.js": "/emadarsa/static/js/main.f8eaa9b7.js",
+    "main.css": "/emadarsa/static/css/main.6675de92.css",
+    "main.js": "/emadarsa/static/js/main.77a9f11b.js",
     "static/js/787.8b22e77f.chunk.js": "/emadarsa/static/js/787.8b22e77f.chunk.js",
+    "static/media/logo-bg.png": "/emadarsa/static/media/logo-bg.18ccac5d6a88244fd52b.png",
     "index.html": "/emadarsa/index.html",
-    "main.7c0e48a6.css.map": "/emadarsa/static/css/main.7c0e48a6.css.map",
-    "main.f8eaa9b7.js.map": "/emadarsa/static/js/main.f8eaa9b7.js.map",
+    "main.6675de92.css.map": "/emadarsa/static/css/main.6675de92.css.map",
+    "main.77a9f11b.js.map": "/emadarsa/static/js/main.77a9f11b.js.map",
     "787.8b22e77f.chunk.js.map": "/emadarsa/static/js/787.8b22e77f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c0e48a6.css",
-    "static/js/main.f8eaa9b7.js"
+    "static/css/main.6675de92.css",
+    "static/js/main.77a9f11b.js"
   ]
 }
