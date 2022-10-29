@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/emadarsa/static/css/main.d3087dc0.css",
-    "main.js": "/emadarsa/static/js/main.48d615b8.js",
+    "main.css": "/emadarsa/static/css/main.80e0b34b.css",
+    "main.js": "/emadarsa/static/js/main.2ce36030.js",
     "static/js/787.8b22e77f.chunk.js": "/emadarsa/static/js/787.8b22e77f.chunk.js",
     "static/media/pic1.jpg": "/emadarsa/static/media/pic1.3c973c7438fb9434bcaf.jpg",
     "static/media/pic4.jpg": "/emadarsa/static/media/pic4.7b58a7b01bcceff89ade.jpg",
@@ -9,12 +9,12 @@
     "static/media/logo-bg.png": "/emadarsa/static/media/logo-bg.18ccac5d6a88244fd52b.png",
     "static/media/pic5.jpg": "/emadarsa/static/media/pic5.9191198f23349ebb5846.jpg",
     "index.html": "/emadarsa/index.html",
-    "main.d3087dc0.css.map": "/emadarsa/static/css/main.d3087dc0.css.map",
-    "main.48d615b8.js.map": "/emadarsa/static/js/main.48d615b8.js.map",
+    "main.80e0b34b.css.map": "/emadarsa/static/css/main.80e0b34b.css.map",
+    "main.2ce36030.js.map": "/emadarsa/static/js/main.2ce36030.js.map",
     "787.8b22e77f.chunk.js.map": "/emadarsa/static/js/787.8b22e77f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3087dc0.css",
-    "static/js/main.48d615b8.js"
+    "static/css/main.80e0b34b.css",
+    "static/js/main.2ce36030.js"
   ]
 }
